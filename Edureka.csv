@@ -1,0 +1,10 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1694254244984,1196,Home,450,,Load Test 1-1,text,false,,913,248,1,1,https://www.edureka.co:443/blog/,606,0,96
+1694254244984,611,Home-0,301,Moved Permanently,Load Test 1-1,text,true,,536,122,1,1,http://www.edureka.co/blog/,606,0,96
+1694254245611,569,Home-1,450,,Load Test 1-1,text,false,,377,126,1,1,https://www.edureka.co:443/blog/,569,0,308
+1694254246186,1243,Videos,450,,Load Test 1-1,text,false,,920,262,1,1,https://www.edureka.co:443/blog/videos/,500,0,0
+1694254246186,500,Videos-0,301,Moved Permanently,Load Test 1-1,text,true,,543,129,1,1,http://www.edureka.co/blog/videos/,500,0,0
+1694254246687,742,Videos-1,450,,Load Test 1-1,text,false,,377,133,1,1,https://www.edureka.co:443/blog/videos/,742,0,0
+1694254247430,764,InterviewQuestions,450,,Load Test 1-1,text,false,,933,288,1,1,https://www.edureka.co:443/blog/interview-questions/,501,0,0
+1694254247430,501,InterviewQuestions-0,301,Moved Permanently,Load Test 1-1,text,true,,556,142,1,1,http://www.edureka.co/blog/interview-questions/,501,0,0
+1694254247931,263,InterviewQuestions-1,450,,Load Test 1-1,text,false,,377,146,1,1,https://www.edureka.co:443/blog/interview-questions/,262,0,0
